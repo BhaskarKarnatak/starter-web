@@ -7,5 +7,6 @@
 ## Purpose
 ## Deployment
 ## How to Contribute
+##COPYRIGHT
 
 "For working directory"
